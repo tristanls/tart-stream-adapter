@@ -1,0 +1,6 @@
+hello
+this is some data
+to read and display
+on the screen
+from the "readFromMe.txt"
+the end
