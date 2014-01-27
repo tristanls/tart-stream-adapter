@@ -1,6 +1,6 @@
 {
   "name": "tart-stream-adapter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Tart adapter for Node.js streams",
   "scripts": {
     "inject-examples": "node scripts/injectExamples.js",
